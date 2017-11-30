@@ -3,6 +3,7 @@
 # e35813ecf6df5c648a2f3c69c2c700bb
 # 1330050f05c5c2c1f05e678136d1ebc2
 # pip instally pyowm
+# Look at Weather.py for reference
 import pyowm
 owm = pyowm.OWM('1330050f05c5c2c1f05e678136d1ebc2')  # You MUST provide a valid API key
 def weatherforcast( place ):
@@ -12,6 +13,7 @@ def weatherforcast( place ):
     forecast.will_be_sunny_at(tomorrow)
     w = observation.get_weather()
     print("City: {0}".format(place))
+    print("Time is at GMT +00")
     print("Sunny Tomorrow? True / False: " + str(forecast.will_be_sunny_at(tomorrow)))
     print("Time of data collection: " + str(w.get_reference_time(timeformat='iso')))
     print("Date of data collection: " + str(w.get_reference_time(timeformat='date')))
