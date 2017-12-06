@@ -1,0 +1,154 @@
+City: Geneva
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-05 10:15:00+00
+Clouds: 90
+Wind: {'speed': 8.2, 'deg': 250, 'gust': 15.4}
+Humidity: 80%
+Pressure: {'press': 1009, 'sea_level': None}
+Temperature: {'temp': 2.64, 'temp_max': 4.0, 'temp_min': 1.0, 'temp_kf': None}
+Weather Status: overcast clouds
+Sunrise Time: 2017-12-05 13:06:06+00
+Sunset Time: 2017-12-05 22:22:09+00
+
+
+City: Geneva
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-05 10:15:00+00
+Clouds: 90
+Wind: {'speed': 8.2, 'deg': 250, 'gust': 15.4}
+Humidity: 80%
+Pressure: {'press': 1009, 'sea_level': None}
+Temperature: {'temp': 2.64, 'temp_max': 4.0, 'temp_min': 1.0, 'temp_kf': None}
+Weather Status: overcast clouds
+Sunrise Time: 2017-12-05 13:06:06+00
+Sunset Time: 2017-12-05 22:22:09+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 03:00:00+00
+Clouds: 75
+Wind: {'speed': 2.83, 'deg': 3.50104}
+Humidity: 62%
+Pressure: {'press': 1010, 'sea_level': None}
+Temperature: {'temp': 30.75, 'temp_max': 31.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-05 22:54:05+00
+Sunset Time: 2017-12-06 10:57:14+00
+
+
+City: London
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 03:20:00+00
+Clouds: 90
+Wind: {'speed': 3.6, 'deg': 220}
+Humidity: 66%
+Pressure: {'press': 1031, 'sea_level': None}
+Temperature: {'temp': 7.5, 'temp_max': 9.0, 'temp_min': 7.0, 'temp_kf': None}
+Weather Status: overcast clouds
+Sunrise Time: 2017-12-06 07:50:44+00
+Sunset Time: 2017-12-06 15:52:24+00
+
+
+City: Zurich
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 02:50:00+00
+Clouds: 90
+Wind: {'speed': 0.5, 'deg': 350}
+Humidity: 100%
+Pressure: {'press': 1036, 'sea_level': None}
+Temperature: {'temp': -0.41, 'temp_max': 0.0, 'temp_min': -1.0, 'temp_kf': None}
+Weather Status: fog
+Sunrise Time: 2017-12-06 06:58:08+00
+Sunset Time: 2017-12-06 15:35:35+00
+
+
+City: Beijing
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-06 03:00:00+00
+Clouds: 0
+Wind: {'speed': 6, 'deg': 320}
+Humidity: 17%
+Pressure: {'press': 1021, 'sea_level': None}
+Temperature: {'temp': 8.0, 'temp_max': 8.0, 'temp_min': 8.0, 'temp_kf': None}
+Weather Status: clear sky
+Sunrise Time: 2017-12-05 23:21:26+00
+Sunset Time: 2017-12-06 08:49:16+00
+
+
+City: Nanning
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 03:00:00+00
+Clouds: 56
+Wind: {'speed': 3, 'deg': 70}
+Humidity: 68%
+Pressure: {'press': 1020, 'sea_level': None}
+Temperature: {'temp': 18.0, 'temp_max': 18.0, 'temp_min': 18.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-05 23:13:51+00
+Sunset Time: 2017-12-06 10:01:36+00
+
+
+City: Sydney
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-06 03:05:00+00
+Clouds: 75
+Wind: {'speed': 7.7, 'deg': 240}
+Humidity: 77%
+Pressure: {'press': 1003, 'sea_level': None}
+Temperature: {'temp': 22.48, 'temp_max': 26.0, 'temp_min': 18.0, 'temp_kf': None}
+Weather Status: thunderstorm with heavy rain
+Sunrise Time: 2017-12-05 18:37:01+00
+Sunset Time: 2017-12-06 08:55:32+00
+
+
+City: Seattle
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-06 02:58:00+00
+Clouds: 1
+Wind: {'speed': 2.1, 'deg': 360}
+Humidity: 75%
+Pressure: {'press': 1037, 'sea_level': None}
+Temperature: {'temp': 3.54, 'temp_max': 5.0, 'temp_min': 1.0, 'temp_kf': None}
+Weather Status: clear sky
+Sunrise Time: 2017-12-06 15:42:59+00
+Sunset Time: 2017-12-07 00:18:05+00
+
+
+City: Shanghai
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 03:00:00+00
+Clouds: 0
+Wind: {'speed': 4, 'deg': 150}
+Humidity: 29%
+Pressure: {'press': 1025, 'sea_level': None}
+Temperature: {'temp': 10.0, 'temp_max': 10.0, 'temp_min': 10.0, 'temp_kf': None}
+Weather Status: clear sky
+Sunrise Time: 2017-12-05 22:38:54+00
+Sunset Time: 2017-12-06 08:51:21+00
+
+
+City: Geneva
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 02:55:00+00
+Clouds: 1
+Wind: {'speed': 5.1, 'deg': 250}
+Humidity: 53%
+Pressure: {'press': 1016, 'sea_level': None}
+Temperature: {'temp': -2.0, 'temp_max': -1.0, 'temp_min': -3.0, 'temp_kf': None}
+Weather Status: clear sky
+Sunrise Time: 2017-12-06 13:06:46+00
+Sunset Time: 2017-12-06 22:22:05+00
+
+
+City: New York
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-06 03:56:00+00
+Clouds: 90
+Wind: {'speed': 5.56, 'deg': 205.001}
+Humidity: 93%
+Pressure: {'press': 1011, 'sea_level': None}
+Temperature: {'temp': 13.68, 'temp_max': 15.0, 'temp_min': 12.0, 'temp_kf': None}
+Weather Status: heavy intensity rain
+Sunrise Time: 2017-12-06 12:05:57+00
+Sunset Time: 2017-12-06 21:28:30+00
