@@ -332,5 +332,96 @@ Temperature: {'temp': 11.0, 'temp_max': 11.0, 'temp_min': 11.0, 'temp_kf': None}
 Weather Status: overcast clouds
 Sunrise Time: 2017-12-06 22:39:42+00
 Sunset Time: 2017-12-07 08:51:28+00
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-11 14:00:00+00
+Clouds: 75
+Wind: {'speed': 5.5, 'deg': 14.0006}
+Humidity: 94%
+Pressure: {'press': 1013, 'sea_level': None}
+Temperature: {'temp': 25.49, 'temp_max': 26.0, 'temp_min': 25.0, 'temp_kf': None}
+Weather Status: light rain
+Sunrise Time: 2017-12-10 22:56:33+00
+Sunset Time: 2017-12-11 10:59:38+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-11 14:00:00+00
+Clouds: 75
+Wind: {'speed': 5.5, 'deg': 14.0006}
+Humidity: 94%
+Pressure: {'press': 1013, 'sea_level': None}
+Temperature: {'temp': 25.49, 'temp_max': 26.0, 'temp_min': 25.0, 'temp_kf': None}
+Weather Status: light rain
+Sunrise Time: 2017-12-10 22:56:33+00
+Sunset Time: 2017-12-11 10:59:38+00
+
+
+City: London
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-11 13:50:00+00
+Clouds: 90
+Wind: {'speed': 5.1, 'deg': 350}
+Humidity: 93%
+Pressure: {'press': 983, 'sea_level': None}
+Temperature: {'temp': 2.2, 'temp_max': 3.0, 'temp_min': 2.0, 'temp_kf': None}
+Weather Status: light rain
+Sunrise Time: 2017-12-11 07:56:44+00
+Sunset Time: 2017-12-11 15:51:22+00
+
+
+City: Zurich
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-11 13:50:00+00
+Clouds: 20
+Wind: {'speed': 1.5, 'deg': 30}
+Humidity: 86%
+Pressure: {'press': 983, 'sea_level': None}
+Temperature: {'temp': 5.82, 'temp_max': 9.0, 'temp_min': 4.0, 'temp_kf': None}
+Weather Status: few clouds
+Sunrise Time: 2017-12-11 07:03:32+00
+Sunset Time: 2017-12-11 15:35:09+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-11 14:00:00+00
+Clouds: 75
+Wind: {'speed': 5.5, 'deg': 14.0006}
+Humidity: 94%
+Pressure: {'press': 1013, 'sea_level': None}
+Temperature: {'temp': 25.49, 'temp_max': 26.0, 'temp_min': 25.0, 'temp_kf': None}
+Weather Status: light rain
+Sunrise Time: 2017-12-10 22:56:33+00
+Sunset Time: 2017-12-11 10:59:38+00
+
+
+City: London
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-11 13:50:00+00
+Time now: 2017-12-11 22:21:33.320197
+Clouds: 90
+Wind: {'speed': 5.1, 'deg': 350}
+Humidity: 93%
+Pressure: {'press': 983, 'sea_level': None}
+Temperature: {'temp': 2.2, 'temp_max': 3.0, 'temp_min': 2.0, 'temp_kf': None}
+Weather Status: light rain
+Sunrise Time: 2017-12-11 07:56:44+00
+Sunset Time: 2017-12-11 15:51:22+00
+
+
+City: Sydney
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-11 14:00:00+00
+Time now: 2017-12-11 22:21:45.344606
+Clouds: 20
+Wind: {'speed': 5.7, 'deg': 90}
+Humidity: 94%
+Pressure: {'press': 1018, 'sea_level': None}
+Temperature: {'temp': 19.91, 'temp_max': 21.0, 'temp_min': 19.0, 'temp_kf': None}
+Weather Status: few clouds
+Sunrise Time: 2017-12-10 18:37:36+00
+Sunset Time: 2017-12-11 08:59:44+00
 
 

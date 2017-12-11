@@ -4,7 +4,10 @@
 # 1330050f05c5c2c1f05e678136d1ebc2
 # pip instally pyowm
 # Look at Weather.py for reference
+from printName import printGlenn
 import pyowm
+import datetime
+printGlenn()
 owm = pyowm.OWM('1330050f05c5c2c1f05e678136d1ebc2')  # You MUST provide a valid API key
 def weatherforcast( place ):
     tomorrow = pyowm.timeutils.tomorrow()
@@ -32,6 +35,8 @@ def weatherforcast( place ):
             f.write(str(forecast.will_be_sunny_at(tomorrow)) + "\n")
             f.write("Time of data collection: ")
             f.write(str(w.get_reference_time(timeformat='iso')) + "\n")
+            f.write("Time now: ")
+            f.write(str(datetime.datetime.now()) + "\n")
             f.write("Clouds: ")
             f.write(str(w.get_clouds()) + "\n")
             f.write("Wind: ")
