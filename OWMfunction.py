@@ -4,10 +4,8 @@
 # 1330050f05c5c2c1f05e678136d1ebc2
 # pip instally pyowm
 # Look at Weather.py for reference
-from printName import printGlenn
 import pyowm
 import datetime
-printGlenn()
 owm = pyowm.OWM('1330050f05c5c2c1f05e678136d1ebc2')  # You MUST provide a valid API key
 def weatherforcast( place ):
     tomorrow = pyowm.timeutils.tomorrow()
