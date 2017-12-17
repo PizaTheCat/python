@@ -28,7 +28,7 @@ def weatherforcast( place ):
         f = open("owmRecords.txt")
         with open("owmRecords.txt",'a',encoding = 'utf-8') as f:
             f.write("City: ")
-            f.write(str(inputA) + "\n")
+            f.write(str(place) + "\n")
             f.write("Sunny Tomorrow? True / False: ")
             f.write(str(forecast.will_be_sunny_at(tomorrow)) + "\n")
             f.write("Time of data collection: ")

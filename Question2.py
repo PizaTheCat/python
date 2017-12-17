@@ -9,7 +9,7 @@
 # F6	=	2^64	+	1	=	18,446,744,073,709,551,617 (20 digits)
 #                           =	274,177 × 67,280,421,310,721 (14 digits) (fully factored 1855)
 
-maxNumCheck = 1000000000
+maxNumCheck = 1000000
 primeArray = [2]
 # assume the number is a prime number
 isPrime = 1
@@ -34,3 +34,7 @@ for i in range(3, maxNumCheck):
         primeArray.append(i)
 print(primeArray)
 print(len(primeArray))
+f = open("allPrimesFrom1to10000000.txt")
+with open("allPrimesFrom1to10000000.txt",'w',encoding = 'utf-8') as f:
+    for i in primeArray:
+        f.write(primeArray(i))
