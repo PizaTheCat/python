@@ -24,7 +24,7 @@ def weatherforcast( place ):
     print("Weather Status: " + str(w.get_detailed_status()))
     print("Sunrise Time: " + str(w.get_sunrise_time('iso')))
     print("Sunset Time: " + str(w.get_sunset_time('iso')) + "                                                                                                                                       ")
-    def fileWrite():
+    def fileWrite( place ):
         f = open("owmRecords.txt")
         with open("owmRecords.txt",'a',encoding = 'utf-8') as f:
             f.write("City: ")
@@ -51,6 +51,7 @@ def weatherforcast( place ):
             f.write(str(w.get_sunrise_time('iso')) + "\n")
             f.write("Sunset Time: ")
             f.write(str(w.get_sunset_time('iso')) + "\n" + "\n" + "\n")
-    fileWrite()
-inputA = input("Please input the requested city: ")
-weatherforcast(inputA)
+    fileWrite(place)
+
+# inputA = input("Please input the requested city: ")
+# weatherforcast(inputA)
