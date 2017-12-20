@@ -122,3 +122,17 @@ Temperature: {'temp': 27.47, 'temp_max': 28.0, 'temp_min': 27.0, 'temp_kf': None
 Weather Status: broken clouds
 Sunrise Time: 2017-12-17 22:59:53+00
 Sunset Time: 2017-12-18 11:02:56+00
+City: Singapore
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-20 04:30:00+00
+Time now: 2017-12-20 13:04:36.498509
+Clouds: 75
+Wind: {'speed': 4.6, 'deg': 20}
+Humidity: 74%
+Pressure: {'press': 1012, 'sea_level': None}
+Temperature: {'temp': 29.77, 'temp_max': 30.0, 'temp_min': 29.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-19 23:00:44+00
+Sunset Time: 2017-12-20 11:03:46+00
+
+
