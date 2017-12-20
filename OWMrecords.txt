@@ -376,3 +376,73 @@ Sunrise Time: 2017-12-19 23:00:49+00
 Sunset Time: 2017-12-20 11:03:51+00
 
 
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-20 09:00:00+00
+Time now: 2017-12-20 17:30:35.753040
+Clouds: 40
+Wind: {'speed': 7.7, 'deg': 40}
+Humidity: 66%
+Pressure: {'press': 1009, 'sea_level': None}
+Temperature: {'temp': 29.29, 'temp_max': 30.0, 'temp_min': 28.0, 'temp_kf': None}
+Weather Status: shower rain
+Sunrise Time: 2017-12-19 23:00:49+00
+Sunset Time: 2017-12-20 11:03:51+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-20 09:30:00+00
+Time now: 2017-12-20 17:40:36.367999
+Clouds: 75
+Wind: {'speed': 4.1, 'deg': 20}
+Humidity: 78%
+Pressure: {'press': 1010, 'sea_level': None}
+Temperature: {'temp': 28.78, 'temp_max': 30.0, 'temp_min': 27.0, 'temp_kf': None}
+Weather Status: shower rain
+Sunrise Time: 2017-12-19 23:00:49+00
+Sunset Time: 2017-12-20 11:03:52+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-20 09:30:00+00
+Time now: 2017-12-20 17:50:36.914709
+Clouds: 75
+Wind: {'speed': 4.1, 'deg': 20}
+Humidity: 78%
+Pressure: {'press': 1010, 'sea_level': None}
+Temperature: {'temp': 28.79, 'temp_max': 30.0, 'temp_min': 27.0, 'temp_kf': None}
+Weather Status: shower rain
+Sunrise Time: 2017-12-19 23:00:49+00
+Sunset Time: 2017-12-20 11:03:52+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-20 09:30:00+00
+Time now: 2017-12-20 18:00:37.438555
+Clouds: 75
+Wind: {'speed': 4.1, 'deg': 20}
+Humidity: 78%
+Pressure: {'press': 1010, 'sea_level': None}
+Temperature: {'temp': 28.79, 'temp_max': 30.0, 'temp_min': 27.0, 'temp_kf': None}
+Weather Status: shower rain
+Sunrise Time: 2017-12-19 23:00:50+00
+Sunset Time: 2017-12-20 11:03:52+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-20 14:00:00+00
+Time now: 2017-12-20 22:22:49.173294
+Clouds: 75
+Wind: {'speed': 5.1, 'deg': 40}
+Humidity: 83%
+Pressure: {'press': 1012, 'sea_level': None}
+Temperature: {'temp': 26.47, 'temp_max': 27.0, 'temp_min': 26.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-19 23:00:55+00
+Sunset Time: 2017-12-20 11:03:57+00
+
+
