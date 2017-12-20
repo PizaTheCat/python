@@ -250,3 +250,45 @@ Sunrise Time: 2017-12-19 23:00:45+00
 Sunset Time: 2017-12-20 11:03:48+00
 
 
+City: Singapore
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-20 06:00:00+00
+Time now: 2017-12-20 14:34:39.019403
+Clouds: 75
+Wind: {'speed': 7.2, 'deg': 30}
+Humidity: 62%
+Pressure: {'press': 1010, 'sea_level': None}
+Temperature: {'temp': 30.49, 'temp_max': 31.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-19 23:00:45+00
+Sunset Time: 2017-12-20 11:03:48+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-20 06:30:00+00
+Time now: 2017-12-20 14:44:39.460166
+Clouds: 75
+Wind: {'speed': 3.1, 'deg': 10}
+Humidity: 74%
+Pressure: {'press': 1011, 'sea_level': None}
+Temperature: {'temp': 30.27, 'temp_max': 31.0, 'temp_min': 29.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-19 23:00:46+00
+Sunset Time: 2017-12-20 11:03:48+00
+
+
+City: Singapore
+Sunny Tomorrow? True / False: True
+Time of data collection: 2017-12-20 06:30:00+00
+Time now: 2017-12-20 14:54:40.081506
+Clouds: 75
+Wind: {'speed': 3.1, 'deg': 10}
+Humidity: 74%
+Pressure: {'press': 1011, 'sea_level': None}
+Temperature: {'temp': 30.27, 'temp_max': 31.0, 'temp_min': 29.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-19 23:00:46+00
+Sunset Time: 2017-12-20 11:03:48+00
+
+
