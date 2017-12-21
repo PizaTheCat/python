@@ -1,17 +1,18 @@
 i = 0
-pi = 3 * (10 ** 300)
+pi = 3
 n = 0
 while True:
     i += 1
     n += 2
     temp = n * (n + 1) * (n + 2) #if n = 2 temp = 24
-    temp = round(((4 * (10 ** 285)) / (temp / (10 ** 15)))) # 1/6 or 1.66667
+    temp = 4 / temp # 1/6 or 1.66667
     if i % 2 == 0:
         pi -= temp
     else:
         pi += temp
-    if int(pi) != pi:
-        break
+    temp = pi
+    # if int(pi) != pi:
+    #     break
     print(i)
     print(pi)
 # i = 2
