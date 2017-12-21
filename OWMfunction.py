@@ -25,8 +25,8 @@ def weatherforcast( place ):
     print("Sunrise Time: " + str(w.get_sunrise_time('iso')))
     print("Sunset Time: " + str(w.get_sunset_time('iso')) + "                                                                                                                                       ")
     def fileWrite( place ):
-        f = open("OWMrecords.txt")
-        with open("OWMrecords.txt",'a',encoding = 'utf-8') as f:
+        f = open("OWMrecords2.txt")
+        with open("OWMrecords2.txt",'a',encoding = 'utf-8') as f:
             f.write("City: ")
             f.write(str(place) + "\n")
             f.write("Sunny Tomorrow? True / False: ")

@@ -1,0 +1,14 @@
+City: Singapore
+Sunny Tomorrow? True / False: False
+Time of data collection: 2017-12-21 04:30:00+00
+Time now: 2017-12-21 12:56:28.898452
+Clouds: 75
+Wind: {'speed': 3.1, 'deg': 20}
+Humidity: 66%
+Pressure: {'press': 1012, 'sea_level': None}
+Temperature: {'temp': 30.52, 'temp_max': 31.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+Sunrise Time: 2017-12-20 23:01:13+00
+Sunset Time: 2017-12-21 11:04:15+00
+
+

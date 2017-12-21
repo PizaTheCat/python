@@ -16,4 +16,4 @@ import time as t
 # t.start
 while True:
     weatherforcast('Singapore')
-    t.sleep(600)
+    t.sleep(1800)
