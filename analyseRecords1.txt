@@ -1,0 +1,143 @@
+City: Singapore
+GMT: +8
+
+
+Time of data collection: 2017-12-21 12:30:00+00
+Wind: speed: 3.1, deg: 20
+Humidity: 66%
+Temperature: {'temp': 30.52, 'temp_max': 31.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 13:00:00+00
+Wind: speed: 5.7, deg: 20
+Humidity: 55%
+Temperature: {'temp': 31.0, 'temp_max': 32.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 14:00:00+00
+Wind: speed: 5.1, deg: 10
+Humidity: 55%
+Temperature: {'temp': 31.47, 'temp_max': 32.0, 'temp_min': 31.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 14:30:00+00
+Wind: speed: 2.6, deg: 20
+Humidity: 62%
+Temperature: {'temp': 31.77, 'temp_max': 32.0, 'temp_min': 31.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 15:00:00+00
+Wind: speed: 4.6, deg: 10
+Humidity: 55%
+Temperature: {'temp': 31.52, 'temp_max': 32.0, 'temp_min': 31.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 15:30:00+00
+Wind: speed: 3.1, deg: 10
+Humidity: 66%
+Temperature: {'temp': 31.28, 'temp_max': 32.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 16:00:00+00
+Wind: speed: 4.1, deg: 10
+Humidity: 55%
+Temperature: {'temp': 31.05, 'temp_max': 32.0, 'temp_min': 29.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 16:30:00+00
+Wind: speed: 2.6, deg: 10
+Humidity: 66%
+Temperature: {'temp': 31.02, 'temp_max': 32.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 17:00:00+00
+Wind: speed: 5.7, 'deg: 350
+Humidity: 58%
+Temperature: {'temp': 30.76, 'temp_max': 31.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: shower rain
+
+
+Time of data collection: 2017-12-21 17:30:00+00
+Wind: speed: 3.1, deg: 350
+Humidity: 62%
+Temperature: {'temp': 30.77, 'temp_max': 31.0, 'temp_min': 30.0, 'temp_kf': None}
+Weather Status: shower rain
+
+
+Time of data collection: 2017-12-21 18:00:00+00
+Wind: speed: 6.2, deg: 360
+Humidity: 55%
+Temperature: {'temp': 30.28, 'temp_max': 31.0, 'temp_min': 29.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 18:30:00+00
+Wind: speed: 2.6, deg: 20
+Humidity: 70%
+Temperature: {'temp': 30.02, 'temp_max': 31.0, 'temp_min': 29.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 19:00:00+00
+Wind: speed: 5.1, deg: 20
+Humidity: 58%
+Temperature: {'temp': 29.0, 'temp_max': 30.0, 'temp_min': 28.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 19:30:00+00
+Wind: speed: 2.1, deg: 20
+Humidity: 69%
+Temperature: {'temp': 29.02, 'temp_max': 30.0, 'temp_min': 28.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 20:00:00+00
+Wind: speed: 3.1, deg: 50
+Humidity: 66%
+Temperature: {'temp': 28.52, 'temp_max': 29.0, 'temp_min': 28.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 20:30:00+00
+Wind: speed: 1.5, deg: 10
+Humidity: 78%
+Temperature: {'temp': 27.75, 'temp_max': 29.0, 'temp_min': 27.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 21:00:00+00
+Wind: speed: 4.1, deg: 30
+Humidity: 74%
+Temperature: {'temp': 27.24, 'temp_max': 28.0, 'temp_min': 27.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 21:30:00+00
+Wind: speed: 2.6, deg: 20
+Humidity: 78%
+Temperature: {'temp': 26.99, 'temp_max': 28.0, 'temp_min': 26.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 22:00:00+00
+Wind: speed: 3.1, deg: 360
+Humidity: 74%
+Pressure: {'press': 1011, 'sea_level': None}
+Temperature: {'temp': 26.71, 'temp_max': 28.0, 'temp_min': 26.0, 'temp_kf': None}
+Weather Status: broken clouds
+
+
+Time of data collection: 2017-12-21 22:30:00+00
+Wind: speed': 2.1, deg: 360
+Humidity: 83%
+Temperature: {'temp': 26.75, 'temp_max': 28.0, 'temp_min': 26.0, 'temp_kf': None}
+Weather Status: broken clouds
